@@ -10,7 +10,10 @@ This project features a Python-based chatbot using Generative AI to answer emplo
 - Focus on prompt engineering for improved chatbot interactions.
 
 ## Technologies Used
-- Python, Microsoft Azure Cloud, Databricks workspace, Vector database.
+- Python
+- Microsoft Azure Cloud
+- Databricks workspace
+- Vector database
 
 ## Additional Information
 Includes setup and testing documentation, with insights into Azure, LangChain, and RAG usage.
