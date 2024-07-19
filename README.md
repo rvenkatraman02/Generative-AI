@@ -15,9 +15,6 @@ This project features a Python-based chatbot using Generative AI to answer emplo
 - Databricks workspace
 - Vector database
 
-## Additional Information
-Includes setup and testing documentation, with insights into Azure, LangChain, and RAG usage.
-
 ## Files in this Repository
 `/Data_Files/`: Folder of files used in the RAG process. <br>
 `environment_setup.py`: Script used to establish Azure connections. <br>
