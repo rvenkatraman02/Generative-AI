@@ -17,3 +17,10 @@ This project features a Python-based chatbot using Generative AI to answer emplo
 
 ## Additional Information
 Includes setup and testing documentation, with insights into Azure, LangChain, and RAG usage.
+
+### Files in this Repository
+`/Data_Files/`: Files used in the RAG process. <br>
+`environment_setup.py`: Script used to establish Azure connections. <br>
+`data_prep.py`: Script used to clean and store data files.<br>
+`chatbot.py`: Script that initializes an Azure AI service to generate responses for various queries. <br>
+`Chatbot Output.csv`: Example query and responses generated from the chatbot. <br>
