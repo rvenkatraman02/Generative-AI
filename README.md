@@ -11,6 +11,7 @@ This project features a Python-based chatbot using Generative AI to answer emplo
 
 ## Technologies Used
 - Python
+  - Langchain
 - Microsoft Azure Cloud
 - Databricks workspace
 - Vector database
